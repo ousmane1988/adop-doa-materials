@@ -1,4 +1,4 @@
-# What is DevOps Academy?
+# What is DevOps Academy? ==> EVRERYTHING :)
 The DevOps Academy is a two-day training course that aims to provide a practical introduction to the tools commonly used in the world of DevOps and Continuous Delivery. With a focus on lab-based learning, participants will be introduced to, and experience first-hand, the latest advanced engineering techniques which, when applied, can apply a huge benefit to project delivery.
 
 This repository contains materials and files required during the various phases of the course. It is recommended that you clone this repository to your local machine as a pre-requisite for the course.
